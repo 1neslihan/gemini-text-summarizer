@@ -16,6 +16,8 @@ kullanıcıdan alınan metni hızlıca özetleyen basit ve modern bir web uygula
 ## 🖥️ Ekran Görüntüsü
 
 <img width="1868" height="931" alt="image" src="https://github.com/user-attachments/assets/6e5a4075-6af5-40c8-93b9-a4b714e40717" />
+<img width="1652" height="914" alt="image" src="https://github.com/user-attachments/assets/bafafdd4-3e28-491a-b640-b99267b7ab5f" />
+
 
 
 ---
