@@ -21,7 +21,7 @@ def summarize_text(text):
 
 
 with gr.Blocks() as demo:
-    gr.Markdown("Gemini Text Summarizer")
+    gr.Markdown("## Gemini Text Summarizer")
 
     with gr.Column(elem_id="center-column"):
         input_text = gr.Textbox(
